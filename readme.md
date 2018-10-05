@@ -1,6 +1,6 @@
-# Project Title
+# Computational Finance
 
-One Paragraph of project description goes here
+Some codes to do computational fincance are shown in this folder.
 
 ## Getting Started
 
