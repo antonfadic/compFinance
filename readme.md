@@ -2,11 +2,7 @@
 
 Some codes to do computational fincance are shown in this folder.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
+### Avellaneda Lee Statistical Arbitrage in the U.S. Equities Market
 For [AvellanedaLee 2009](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505) ,  you need a matrix ij, called A, where j is different stocks to be considered (hardwired at 471) and i is the number of observations (hardwired)
 
 ## To do
