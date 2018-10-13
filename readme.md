@@ -14,8 +14,6 @@ Remove hardwires.
 
 * **Anton Fadic** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 You are free to use any of these codes if you acknowledge the source. 
